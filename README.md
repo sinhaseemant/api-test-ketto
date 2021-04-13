@@ -1,6 +1,6 @@
 # apitest
 
-A new Flutter project.
+An API Test app in Flutter 
 
 ## Getting Started
 
